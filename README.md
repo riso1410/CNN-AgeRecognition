@@ -1,6 +1,6 @@
 # Age Recognition (VGG16)
 
-A brief description of your program and what it does.
+Classification of faces into 3 classes: YOUNG (0), MIDDLE (1), OLD (2)
 
 ## Requirements
 
