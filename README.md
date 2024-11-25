@@ -4,7 +4,7 @@ Classification of faces into 3 classes: YOUNG (0), MIDDLE (1), OLD (2)
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12.0
 - Virtual environment tool (optional but recommended)
 
 ## Setup Instructions
