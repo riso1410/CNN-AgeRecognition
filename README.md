@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/arashnic/faces-age-detection-dataset/code?select
 
 Create this folder structure:
 
-data/
-├── Test/test_images.png (from faces_02/part3)
-├── Train/train_images.png
-└── train.csv
+data/ \
+├── Test/test_images.png (from faces_02/part3) \
+├── Train/train_images.png \
+└── train.csv 
