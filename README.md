@@ -1,4 +1,4 @@
-# Age Recognition (VGG16)
+# Age Recognition using LeNet-5
 
 Classification of faces into 3 classes: YOUNG (0), MIDDLE (1), OLD (2)
 
