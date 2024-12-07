@@ -1,4 +1,4 @@
-# Age Recognition using LeNet-5
+# Age Recognition
 
 Classification of faces into 3 classes: YOUNG (0), MIDDLE (1), OLD (2)
 
