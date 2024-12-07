@@ -1,6 +1,9 @@
-matplotlib==3.9.2 
-pandas==2.2.3 
+matplotlib==3.9.2
+pandas==2.2.3
 scikit-learn==1.5.2
-torch==2.5.1 
-jupyter-summarytools==0.2.3 
-torchvision==0.20.1 
+torch==2.5.1
+jupyter-summarytools==0.2.3
+torchvision==0.20.1
+seaborn==0.13.2
+timm==1.0.12
+wandb==0.19.0 
